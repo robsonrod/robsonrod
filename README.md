@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 
 ### My current status
 - 🔭 I’m currently working on Engesoftware
 - 🌱 I’m currently learning Clojure
 - 👯 I’m looking to collaborate on Clojure projects
-- I am backend software engineer interested in data structures, embedded and distributed systems
+- 👨🏽‍💻 I am backend software engineer interested in data structures, embedded and distributed systems
 - ⚡ Fun fact: I am afraid of dogs
 
 ### Stack
