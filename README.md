@@ -1,5 +1,6 @@
 ### Hi there 👋🏽
 
+I'd say I like to solve problems
 
 ### My current status
 - 🔭 I’m currently working on Engesoftware
@@ -7,6 +8,7 @@
 - 👯 I’m looking to collaborate on Clojure projects
 - 👨🏽‍💻 I am backend software engineer interested in data structures, embedded and distributed systems
 - ⚡ Fun fact: I am afraid of dogs
+- 📫 How to reach me: robsonrod@gmail.com
 
 ### Stack
 
@@ -34,7 +36,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
