@@ -24,7 +24,7 @@ I'd say I like to solve problems
 - Database: DB2, Oracle and MS SQL
 - Agile practices: XP, Scrum, TDD, CI/CD and Pair Programming
 - ORM: Hibernate, NHibernate and JPA
-- Framework: Spring and Wicket
+- Framework: Spring Data, Spring IoC, Spring MVC and Wicket
 
 <!--
 **robsonrod/robsonrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
