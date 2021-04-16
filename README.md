@@ -4,8 +4,8 @@ I'd say I like to solve problems
 
 ### My current status
 - 🔭 I’m currently working on Engesoftware
-- 🌱 I’m currently learning Elixir
-- 👯 I’m looking to collaborate on Clojure projects
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Golang projects
 - 👨🏽‍💻 I am backend software engineer interested in data structures, embedded and distributed systems
 - ⚡ Fun fact: I am afraid of dogs
 - 📫 How to reach me: robsonrod@gmail.com
@@ -21,7 +21,7 @@ I'd say I like to solve problems
 
 #### Worked with
 - Programming: Java, C# and PHP
-- Database: DB2, Oracle and MS SQL
+- Database: DB2, Oracle, MySQL, PostgreSQL and MS SQL
 - Agile practices: XP, Scrum, TDD, CI/CD and Pair Programming
 - ORM: Hibernate, NHibernate and JPA
 - Framework: Spring Data, Spring IoC, Spring MVC and Wicket
