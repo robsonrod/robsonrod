@@ -3,7 +3,7 @@
 I'd say I like to solve problems
 
 ### My current status
-- 🔭 I’m currently working on Engesoftware
+- 🔭 I’m currently working on Sonda IT
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Golang projects
 - 👨🏽‍💻 I am backend software engineer interested in data structures, embedded and distributed systems
